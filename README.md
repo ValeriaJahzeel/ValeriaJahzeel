@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 -->
 # 👋 Hello, I'm Valeria 
 
-### AI Engineering Student | Chess Enthusiast | Science & Astronomy Lover | Anime lover
+### AI Engineer| Chess Enthusiast | Science & Astronomy Lover | Anime lover
 
-Welcome to my GitHub profile! I'm currently studying **Artificial Intelligence Engineering**, and I'm passionate about technology, problem-solving, and exploring the universe.  
+Welcome to my GitHub profile! I'm a recent graduate AI Engineer working on Agentic AI and speech recognition. I'm passionate about technology, problem-solving, and exploring the universe.  
 
 ## 🌟 About Me  
 - 🔹 **AI & Machine Learning:** I love working with deep learning, computer vision, and data science.  
