@@ -45,11 +45,15 @@
 
 ---
 
-### 📊 Telemetry & Metrics
+### 📊 Telemetry & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValeriaJahzeel&show_icons=true&theme=radical&hide_border=true&title_color=00ffcc&icon_color=00ffcc&text_color=999999&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaJahzeel&layout=compact&theme=radical&hide_border=true&title_color=00ffcc&text_color=999999&bg_color=0d1117" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ValeriaJahzeel&show_icons=true&theme=tokyonight&hide_border=true" alt="Valeria's Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ValeriaJahzeel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValeriaJahzeel&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
 </p>
 
 ---
