@@ -1,50 +1,61 @@
-<!--
-**ValeriaJahzeel/ValeriaJahzeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+# ⚡ VALERIA JAHZEEL // SYSTEM PROFILE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hello, I'm Valeria 
+> **`AI Engineer & Software Developer`**  
+> *Designing systems from paper schematics to bare-metal execution.*
 
-### AI Engineer| Chess Enthusiast | Science & Astronomy Lover | Anime lover
+---
 
-Welcome to my GitHub profile! I'm a recent graduate AI Engineer working on Agentic AI and speech recognition. I'm passionate about technology, problem-solving, and exploring the universe.  
+### 🖥️ Runtime & Hardware Node
 
-## 🌟 About Me  
-- 🔹 **AI & Machine Learning:** I love working with deep learning, computer vision, and data science.  
-- ♟️ **Chess Enthusiast:** Always up for a game! I'm not good but I do my best :D  
-- 🔭 **Astronomy & Science:** Fascinated by the mysteries of the cosmos and scientific discoveries.  
-- 💻 **Programming:** I enjoy building AI projects, automation tools, and exploring new technologies.  
+- **Host Node:** Custom Rig // AMD Ryzen 5 9600X // Linux & WSL
+- **Compute:** Local GPU Ingestion & Inference
+- **Methodology:** Paper-first system architecture → modular code delivery
+- **Off-Grid Protocols:** Chess, tactical & narrative RPGs, physical computing
 
-## 🛠️ Languages
-- **Programming:** Python, JavaScript, Matlab 
-- **AI & Data Science:** TensorFlow, PyTorch, Scikit-Learn  
-- **Computer Vision:** OpenCV, YOLO, CNNs  
-- **Development Tools:** Git, Linux  
-- **Other Interests:** Reinforcement Learning, Neural Networks, Scientific Computing  
+---
 
-<!--
-## 📌 Projects & Contributions  
-- 🔭 **[Project Name 1]** - Short description of your project.  
-- ♟️ **[Project Name 2]** - Maybe a chess-related AI?  
-- 🚀 **[Project Name 3]** - Something related to astronomy?  
--->
+### 🛰️ Core Focus & Research Vectors
 
-## ⚡ Fun fact: 
-- I didn't know how to write my second name (Jahzeel) correctly until I was 9
+* **`0x01` World Models & Environments:** Investigating predictive representations and world modeling pipelines.
+* **`0x02` Local LLM Ops:** Zero-leak local inference pipelines, automated extraction, and structured schema parsers.
+* **`0x03` Computer Vision:** Edge-ready feature extraction, detection, and visual computing modules.
+* **`0x04` Backend Systems:** Resilient Python services, relational database design (SQL), and clean REST architectures.
 
-## 📫 How to reach me:
-- 📧 Email: [chj068378@gmail.com]  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/valeria-casta%C3%B1on-3b9672292/]  
-- ♟️ Chess.com | Lichess: [Jah_zz | Jahzz]  
+---
 
+### 🧰 Technical Arsenal
 
+**AI & Computer Vision**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Local LLMs](https://img.shields.io/badge/Local%20LLMs-Ollama%20%2F%20GGUF-00ffcc?style=flat-square)
 
-### ☠️ **"Power isn't determined by your size, but by the size of your heart and dreams!"** – Monkey D. Luffy 🏴‍☠️🔥  
+**Backend & Data Architecture**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-APIs-005571?style=flat-square)
+
+**CLI, Diagnostics & Ops**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 Telemetry & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ValeriaJahzeel&show_icons=true&theme=radical&hide_border=true&title_color=00ffcc&icon_color=00ffcc&text_color=999999&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaJahzeel&layout=compact&theme=radical&hide_border=true&title_color=00ffcc&text_color=999999&bg_color=0d1117" alt="Top Languages" width="45%" />
+</p>
+
+---
+
+### 📡 Handshake & Connect
+
+- **LinkedIn:** [linkedin.com/in/valeria-castanon](https://www.linkedin.com/in/valeria-castanon/)
+- **Email:** [valeria.jahzeel.ch@gmail.com](mailto:valeria.jahzeel.ch@gmail.com)
+- **Status:** `OPERATIONAL // Open to AI engineering & architecture challenges`
