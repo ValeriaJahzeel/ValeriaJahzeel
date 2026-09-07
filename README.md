@@ -1,11 +1,11 @@
-# ⚡ VALERIA JAHZEEL // SYSTEM PROFILE
+# VALERIA JAHZEEL // SYSTEM PROFILE
 
 > **`AI Engineer & Software Developer`**  
 > *Designing systems from paper schematics to bare-metal execution.*
 
 ---
 
-### 🖥️ Runtime & Hardware Node
+### Runtime & Hardware Node
 
 - **Host Node:** Custom Rig // AMD Ryzen 5 9600X // Linux & WSL
 - **Compute:** Local GPU Ingestion & Inference
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛰️ Core Focus & Research Vectors
+### Core Focus & Research Vectors
 
 * **`0x01` World Models & Environments:** Investigating predictive representations and world modeling pipelines.
 * **`0x02` Local LLM Ops:** Zero-leak local inference pipelines, automated extraction, and structured schema parsers.
@@ -23,7 +23,7 @@
 
 ---
 
-### 🧰 Technical Arsenal
+### Technical Arsenal
 
 **AI & Computer Vision**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -45,19 +45,17 @@
 
 ---
 
-### 📊 Telemetry & Activity
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValeriaJahzeel&theme=tokyonight&hide_border=true" alt="Streak Telemetry" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValeriaJahzeel&theme=tokyonight" alt="Summary Profile" width="85%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ValeriaJahzeel&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="85%" />
 </p>
 
 ---
 
-### 📡 Handshake & Connect
+### Handshake & Connect
 
 - **LinkedIn:** [linkedin.com/in/valeria-castanon](https://www.linkedin.com/in/valeria-castanon/)
 - **Email:** [valeria.jahzeel.ch@gmail.com](mailto:valeria.jahzeel.ch@gmail.com)
