@@ -48,12 +48,11 @@
 ### 📊 Telemetry & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ValeriaJahzeel&show_icons=true&theme=tokyonight&hide_border=true" alt="Valeria's Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ValeriaJahzeel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValeriaJahzeel&theme=tokyonight&hide_border=true" alt="Streak Telemetry" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValeriaJahzeel&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValeriaJahzeel&theme=tokyonight" alt="Summary Profile" width="85%" />
 </p>
 
 ---
