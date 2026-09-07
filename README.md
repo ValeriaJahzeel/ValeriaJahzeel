@@ -1,11 +1,10 @@
-# ⚡ VALERIA JAHZEEL // SYSTEM PROFILE
-
+# VALERIA JAHZEEL 
 > **`AI Engineer & Software Developer`**  
 > *Designing systems from paper schematics to bare-metal execution.*
 
 ---
 
-### 🖥️ Runtime & Hardware Node
+### Runtime & Hardware Node
 
 - **Host Node:** Custom Rig // AMD Ryzen 5 9600X // Linux & WSL
 - **Compute:** Local GPU Ingestion & Inference
@@ -14,7 +13,7 @@
 
 ---
 
-### 🛰️ Core Focus & Research Vectors
+### Core Focus & Research Vectors
 
 * **`0x01` World Models & Environments:** Investigating predictive representations and world modeling pipelines.
 * **`0x02` Local LLM Ops:** Zero-leak local inference pipelines, automated extraction, and structured schema parsers.
@@ -23,7 +22,7 @@
 
 ---
 
-### 🛠️ Skill Set
+### Skill Set
 
 | AI & Vision | Backend & Data | Systems & Tools |
 | :---: | :---: | :---: |
@@ -31,7 +30,7 @@
 
 ---
 
-### 📊 Github Stats
+### Github Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValeriaJahzeel&theme=tokyonight&hide_border=true" alt="Streak Telemetry" width="85%" />
@@ -39,7 +38,7 @@
 
 ---
 
-### 📡 Connect with me
+### Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/valeria-castanon/"><img src="https://img.shields.io/badge/LinkedIn-Valeria_Castanon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
